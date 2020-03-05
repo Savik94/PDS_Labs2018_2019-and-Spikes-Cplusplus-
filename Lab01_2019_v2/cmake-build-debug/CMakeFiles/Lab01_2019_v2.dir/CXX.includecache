@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/StringBuffer.h
+string.h
+-
+
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/main.cpp
+iostream
+-
+StringBuffer.h
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/StringBuffer.h
+

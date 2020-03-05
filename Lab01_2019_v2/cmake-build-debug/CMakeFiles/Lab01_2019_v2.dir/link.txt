@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab01_2019_v2.dir/main.cpp.o CMakeFiles/Lab01_2019_v2.dir/StringBuffer.cpp.o  -o Lab01_2019_v2 

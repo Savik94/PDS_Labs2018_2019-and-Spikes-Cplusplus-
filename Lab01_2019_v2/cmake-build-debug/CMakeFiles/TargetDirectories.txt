@@ -1,0 +1,3 @@
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/saverio/CLionProjects/PDS/Lab01_2019_v2/cmake-build-debug/CMakeFiles/Lab01_2019_v2.dir
