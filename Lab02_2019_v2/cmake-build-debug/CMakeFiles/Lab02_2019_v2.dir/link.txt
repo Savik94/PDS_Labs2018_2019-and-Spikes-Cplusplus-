@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lab02_2019_v2.dir/main.cpp.o CMakeFiles/Lab02_2019_v2.dir/Base.cpp.o CMakeFiles/Lab02_2019_v2.dir/Directory.cpp.o CMakeFiles/Lab02_2019_v2.dir/File.cpp.o  -o Lab02_2019_v2 

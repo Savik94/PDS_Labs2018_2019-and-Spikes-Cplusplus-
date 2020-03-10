@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/Base.h
+string
+-
+
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/CustomException.h
+exception
+-
+string
+-
+
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/Directory.h
+memory
+-
+map
+-
+Base.h
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/Base.h
+File.h
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/File.h
+CustomException.h
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/CustomException.h
+
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/File.h
+Base.h
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/Base.h
+memory
+-
+iostream
+-
+
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/main.cpp
+iostream
+-
+Directory.h
+/home/saverio/CLionProjects/PDS/Lab02_2019_v2/Directory.h
+
