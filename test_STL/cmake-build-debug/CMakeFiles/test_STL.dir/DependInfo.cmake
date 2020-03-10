@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/saverio/CLionProjects/PDS/test_STL/Class.cpp" "/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/Class.cpp.o"
-  "/home/saverio/CLionProjects/PDS/test_STL/main.cpp" "/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/main.cpp.o"
+  "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/Class.cpp" "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/Class.cpp.o"
+  "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/main.cpp" "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

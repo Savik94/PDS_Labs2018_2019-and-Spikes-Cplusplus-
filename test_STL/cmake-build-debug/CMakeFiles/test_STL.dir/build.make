@@ -43,10 +43,10 @@ RM = /home/saverio/clion-2018.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/saverio/CLionProjects/PDS/test_STL
+CMAKE_SOURCE_DIR = /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug
+CMAKE_BINARY_DIR = /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/test_STL.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/test_STL.dir/flags.make
 
 CMakeFiles/test_STL.dir/main.cpp.o: CMakeFiles/test_STL.dir/flags.make
 CMakeFiles/test_STL.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_STL.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_STL.dir/main.cpp.o -c /home/saverio/CLionProjects/PDS/test_STL/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/test_STL.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_STL.dir/main.cpp.o -c /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/main.cpp
 
 CMakeFiles/test_STL.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_STL.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/saverio/CLionProjects/PDS/test_STL/main.cpp > CMakeFiles/test_STL.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/main.cpp > CMakeFiles/test_STL.dir/main.cpp.i
 
 CMakeFiles/test_STL.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_STL.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/saverio/CLionProjects/PDS/test_STL/main.cpp -o CMakeFiles/test_STL.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/main.cpp -o CMakeFiles/test_STL.dir/main.cpp.s
 
 CMakeFiles/test_STL.dir/Class.cpp.o: CMakeFiles/test_STL.dir/flags.make
 CMakeFiles/test_STL.dir/Class.cpp.o: ../Class.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test_STL.dir/Class.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_STL.dir/Class.cpp.o -c /home/saverio/CLionProjects/PDS/test_STL/Class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/test_STL.dir/Class.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/test_STL.dir/Class.cpp.o -c /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/Class.cpp
 
 CMakeFiles/test_STL.dir/Class.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_STL.dir/Class.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/saverio/CLionProjects/PDS/test_STL/Class.cpp > CMakeFiles/test_STL.dir/Class.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/Class.cpp > CMakeFiles/test_STL.dir/Class.cpp.i
 
 CMakeFiles/test_STL.dir/Class.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_STL.dir/Class.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/saverio/CLionProjects/PDS/test_STL/Class.cpp -o CMakeFiles/test_STL.dir/Class.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/Class.cpp -o CMakeFiles/test_STL.dir/Class.cpp.s
 
 # Object files for target test_STL
 test_STL_OBJECTS = \
@@ -95,7 +95,7 @@ test_STL: CMakeFiles/test_STL.dir/main.cpp.o
 test_STL: CMakeFiles/test_STL.dir/Class.cpp.o
 test_STL: CMakeFiles/test_STL.dir/build.make
 test_STL: CMakeFiles/test_STL.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable test_STL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable test_STL"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/test_STL.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -108,6 +108,6 @@ CMakeFiles/test_STL.dir/clean:
 .PHONY : CMakeFiles/test_STL.dir/clean
 
 CMakeFiles/test_STL.dir/depend:
-	cd /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/saverio/CLionProjects/PDS/test_STL /home/saverio/CLionProjects/PDS/test_STL /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles/test_STL.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/test_STL.dir/depend
 

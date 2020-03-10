@@ -59,10 +59,10 @@ RM = /home/saverio/clion-2018.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/saverio/CLionProjects/PDS/test_STL
+CMAKE_SOURCE_DIR = /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug
+CMAKE_BINARY_DIR = /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/test_STL.dir
@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug
 CMakeFiles/test_STL.dir/all:
 	$(MAKE) -f CMakeFiles/test_STL.dir/build.make CMakeFiles/test_STL.dir/depend
 	$(MAKE) -f CMakeFiles/test_STL.dir/build.make CMakeFiles/test_STL.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target test_STL"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target test_STL"
 .PHONY : CMakeFiles/test_STL.dir/all
 
 # Include target in all.
@@ -81,9 +81,9 @@ all: CMakeFiles/test_STL.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/test_STL.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test_STL.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/saverio/CLionProjects/PDS/test_STL/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/test_STL/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/test_STL.dir/rule
 
 # Convenience name for target.
