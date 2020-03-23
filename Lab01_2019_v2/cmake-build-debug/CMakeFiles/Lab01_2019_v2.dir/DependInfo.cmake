@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/saverio/CLionProjects/PDS/Lab01_2019_v2/StringBuffer.cpp" "/home/saverio/CLionProjects/PDS/Lab01_2019_v2/cmake-build-debug/CMakeFiles/Lab01_2019_v2.dir/StringBuffer.cpp.o"
-  "/home/saverio/CLionProjects/PDS/Lab01_2019_v2/main.cpp" "/home/saverio/CLionProjects/PDS/Lab01_2019_v2/cmake-build-debug/CMakeFiles/Lab01_2019_v2.dir/main.cpp.o"
+  "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/Lab01_2019_v2/StringBuffer.cpp" "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/Lab01_2019_v2/cmake-build-debug/CMakeFiles/Lab01_2019_v2.dir/StringBuffer.cpp.o"
+  "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/Lab01_2019_v2/main.cpp" "/home/saverio/CLionProjects/PDS/PDS_Labs2018_2019-and-Spikes-Cplusplus-/Lab01_2019_v2/cmake-build-debug/CMakeFiles/Lab01_2019_v2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
